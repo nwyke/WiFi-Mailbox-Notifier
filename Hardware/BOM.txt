@@ -1,0 +1,27 @@
+Part Value        Device                Package                      Description          BTM_NEG BTM_POS PROD_ID    TOP_NEG TOP_POS VALUE 
+C2   100nF        CAP1206               1206                         Capacitor                                                             
+C4   10uF         CAP1206               1206                         Capacitor                                                             
+C5   10uF         CAP1206               1206                         Capacitor                                                             
+D1   16V          DIODE-ZENER16V        SOD-123                      Zener Diode                          DIO-12440                  16V   
+D2   16V          DIODE-ZENER16V        SOD-123                      Zener Diode                          DIO-12440                  16V   
+D3   16V          DIODE-ZENER16V        SOD-123                      Zener Diode                          DIO-12440                  16V   
+D5   16V          DIODE-ZENER16V        SOD-123                      Zener Diode                          DIO-12440                  16V   
+D6   YELLOW       LED-YELLOW1206        LED-1206                     Yellow SMD LEDs                      DIO-00820                  YELLOW
+J1                M06SILK_FEMALE_PTH    1X06                         Header 6                             CONN-08437                       
+J2                M02LOCK               1X02_LOCK                    Standard 2-pin 0.1"                                                   
+J4                JST_2MM_MALE          JST-2-SMD                    Mates to single-cell -       +       CONN-11443 -       +             
+R1   1K           RESISTOR1206          1206                         Resistor                                                              
+R2   2K           RESISTOR1206          1206                         Resistor                                                              
+R3   10K          RESISTOR1206          1206                         Resistor                                                              
+R7   1M           RESISTOR1206          1206                         Resistor                                                              
+R8   220          RESISTOR1206          1206                         Resistor                                                              
+R9   10K          RESISTOR1206          1206                         Resistor                                                              
+R10  10K          RESISTOR1206          1206                         Resistor                                                              
+R11  10K          RESISTOR1206          1206                         Resistor                                                              
+R12  10K          RESISTOR1206          1206                         Resistor                                                              
+R13  10K          RESISTOR1206          1206                         Resistor                                                              
+SW1               SWITCH_SPST_4_PINRECT TACTILE_SWITCH_SMD_4.6X2.8MM                                      SWCH-13065                       
+U$3  USB-MICROB"  USB-MICROB"           USB-B-MICRO-SMD_V03                                               CONN-11752                       
+U1                ESP12ESMD             ESP12E-SMD                   ESP12E Module                                                         
+U3   V_REG_LDOSMD V_REG_LDOSMD          SOT23-5                      Voltage Regulator LD                                                  
+U5   MCP73831     MCP73831              SOT23-5 
